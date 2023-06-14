@@ -1,0 +1,26 @@
+img{
+    width: 300px;
+}
+.background-image{
+    width: 10px;
+    height: 50px;
+}
+h6{
+    text-align:center;
+    background-image:url(https://s10.favim.com/orig/170131/aesthetic-black-chanel-coco-chanel-Favim.com-5030215.jpeg);
+    height: 200px;
+    width: 2000px;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    background-image:url(https://avatars.mds.yandex.net/i?id=e6d616813321a69d09dd23d250075ecf12319093-7013580-images-thumbs&n=13);
+    height: 200px;
+    width: 2000px;
+}
